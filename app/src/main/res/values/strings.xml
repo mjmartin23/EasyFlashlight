@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name"> <font color="@color/black"/>Easy Flashlight</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_theme">Themes</string>
+    <string name="flashlight_button_desc">Flashlight Button</string>
+    <string name="send_feedback">Send Feedback</string>
+    <string name="donate">Donate</string>
+    <string name="settings_theme_title">Theme</string>
+    <string name="settings_activity_title">Settings</string>
+    <string name="choose_theme">Pick your theme</string>
+    <string name="reopen_after_choice">After choosing your theme, please restart the app to see your changes</string>
+    <string name="donate_heading">Donations are not expected but they are gratefully accepted!</string>
+    <string name="one_dollar">$1</string>
+    <string name="two_dollars">$2</string>
+    <string name="five_dollars">$5</string>
+    <string name="ten_dollars">$10</string>
+    <string name="twentyfive_dollars">$25</string>
+
+    <string name="code_part_1">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApn8kg2D/o8GMS+UUj2UCeriNm9zed3iAaFY5Wi3yWo9+OJU/WDojk4RS+Cf1Cgql6NuArr</string>
+    <string name="code_part_2">9IML5FRF6AmcSBG7qteTeO+97AHa+tCgfbxRo/TXO3+PrbkRk/3De0JNzQYH0XbnYTSYV2UMfpMTXAeYBe3ysNncQLJ3fCnghAzoLz/nLvZqvx688kRMXour</string>
+    <string name="code_part_3">5AUOzP+Y9w2rnxD9hNLcjDPc6IRTil1U97c1xpZnnUHf1UGfyMVqgVOmojEZHrqRzi6xJLEFQr5sgZn7c99vyQKV+sVlKBMIMMf714J7yJp88tw040zwyc0fuN54MlRqX+dWpYIKDqXKbjd6haQdLqOwIDAQAB</string>
+
+
+    <string-array name="theme_options">
+        <item>Blue</item>
+        <item>Red</item>
+        <item>Green</item>
+    </string-array>
+    <string-array name="theme_options_values">
+        <item>@color/blue</item>
+        <item>@color/red</item>
+        <item>@color/green</item>
+    </string-array>
+
+</resources>

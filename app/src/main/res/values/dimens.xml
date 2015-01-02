@@ -1,0 +1,22 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="button_diam">56dp</dimen>
+    <dimen name="button_rad">28dp</dimen>
+    <dimen name="button_shadow_dy">15dp</dimen>
+    <dimen name="button_shadow_dx">5dp</dimen>
+    <dimen name="actionbar_height">60dp</dimen>
+    <dimen name="overflow_button_height">@dimen/actionbar_height</dimen>
+    <dimen name="theme_choice_diam">50dp</dimen>
+    <dimen name="theme_choice_rad">25dp</dimen>
+    <dimen name="donate_button_height">30dp</dimen>
+    <dimen name="donate_button_width">75dp</dimen>
+
+
+    <integer name="theme_cols">4</integer>
+    <integer name="theme_rows">3</integer>
+    <integer name="donate_cols">3</integer>
+    <integer name="donate_rows">2</integer>
+
+</resources>

@@ -1,0 +1,18 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item android:id="@+id/action_theme"
+        android:title="@string/action_theme"
+        android:orderInCategory="1"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/action_feedback"
+        android:title="@string/send_feedback"
+        android:orderInCategory="2"
+        app:showAsAction="never"
+        android:actionProviderClass="android.widget.ShareActionProvider"/>
+
+</menu>
