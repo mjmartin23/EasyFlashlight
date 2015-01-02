@@ -6,27 +6,8 @@
     <string name="action_theme">Themes</string>
     <string name="flashlight_button_desc">Flashlight Button</string>
     <string name="send_feedback">Send Feedback</string>
-    <string name="donate">Donate</string>
     <string name="settings_theme_title">Theme</string>
     <string name="settings_activity_title">Settings</string>
     <string name="choose_theme">Pick your theme</string>
-    <string name="reopen_after_choice">After choosing your theme, please restart the app to see your changes</string>
-    <string name="donate_heading">Donations are not expected but they are gratefully accepted!</string>
-    <string name="one_dollar">$1</string>
-    <string name="two_dollars">$2</string>
-    <string name="five_dollars">$5</string>
-    <string name="ten_dollars">$10</string>
-    <string name="twentyfive_dollars">$25</string>
-
-    <string-array name="theme_options">
-        <item>Blue</item>
-        <item>Red</item>
-        <item>Green</item>
-    </string-array>
-    <string-array name="theme_options_values">
-        <item>@color/blue</item>
-        <item>@color/red</item>
-        <item>@color/green</item>
-    </string-array>
 
 </resources>
