@@ -23,6 +23,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:src="@drawable/ic_flashlight_button"
-        android:layout_gravity="bottom|end" />
+        android:layout_gravity="bottom|end"
+        android:keepScreenOn="true" />
 
 </FrameLayout>
